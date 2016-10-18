@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="Ociones">
+        <item>Todos</item>
+
+        <item>Electronica</item>
+
+        <item>Civil</item>
+
+        <item>Computacion</item>
+
+        <item>Industrial</item>
+
+        <item>Sistemas</item>
+    </string-array>
+
+
+
+</resources>

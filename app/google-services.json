@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "679256121211",
+    "firebase_url": "https://mi-extraordinaria-app.firebaseio.com",
+    "project_id": "mi-extraordinaria-app",
+    "storage_bucket": "mi-extraordinaria-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:679256121211:android:ab4e1b5999134cdd",
+        "android_client_info": {
+          "package_name": "ar.edu.ucc.uccnews"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "679256121211-svpf8no0u4e6ug8ph686hdejcr3283qb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB920ZE0QegILMmUmPgEHnc6IfI223ZEis"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

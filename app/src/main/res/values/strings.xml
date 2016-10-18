@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">FACULTAD DE INGENIERIA APP</string>
+
+    <!-- Strings related to login -->
+    <string name="Nombre_de_Usuario">Email o Nombre de Usuario</string>
+    <string name="Contra">Contraseña</string>
+    <string name="Acceder">Acceder</string>
+    <string name="Registro">Registrarse</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">Ingrese un Email o Nombre de Usuario válido</string>
+    <string name="no_contra">Ingrese su contraseña</string>
+    <string name="error_invalid_password">Ingrese una contraseña válida</string>
+    <string name="error_incorrect_password">Contraseña Incorrecta</string>
+    <string name="error_field_required">Campo Obligatorio</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="title_activity_login">Sign in</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password (optional)</string>
+    <string name="action_sign_in">Sign in or register</string>
+</resources>
